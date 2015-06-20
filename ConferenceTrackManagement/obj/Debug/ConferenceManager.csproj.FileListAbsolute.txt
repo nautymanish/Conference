@@ -1,0 +1,4 @@
+C:\Users\manish\Desktop\OrderManagemtn\ConferenceTrackManagement-master\ConferenceTrackManagement\bin\Debug\ConferenceManager.dll
+C:\Users\manish\Desktop\OrderManagemtn\ConferenceTrackManagement-master\ConferenceTrackManagement\bin\Debug\ConferenceManager.pdb
+C:\Users\manish\Desktop\OrderManagemtn\ConferenceTrackManagement-master\ConferenceTrackManagement\obj\Debug\ConferenceManager.dll
+C:\Users\manish\Desktop\OrderManagemtn\ConferenceTrackManagement-master\ConferenceTrackManagement\obj\Debug\ConferenceManager.pdb

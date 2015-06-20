@@ -1,0 +1,9 @@
+C:\Users\manish\Desktop\OrderManagemtn\ConferenceTrackManagement-master\ConferenceTrackManagementTester\bin\Debug\ConferenceManagerTester.dll
+C:\Users\manish\Desktop\OrderManagemtn\ConferenceTrackManagement-master\ConferenceTrackManagementTester\bin\Debug\ConferenceManagerTester.pdb
+C:\Users\manish\Desktop\OrderManagemtn\ConferenceTrackManagement-master\ConferenceTrackManagementTester\bin\Debug\ConferenceManager.dll
+C:\Users\manish\Desktop\OrderManagemtn\ConferenceTrackManagement-master\ConferenceTrackManagementTester\bin\Debug\nunit.framework.dll
+C:\Users\manish\Desktop\OrderManagemtn\ConferenceTrackManagement-master\ConferenceTrackManagementTester\bin\Debug\ConferenceManager.pdb
+C:\Users\manish\Desktop\OrderManagemtn\ConferenceTrackManagement-master\ConferenceTrackManagementTester\bin\Debug\nunit.framework.xml
+C:\Users\manish\Desktop\OrderManagemtn\ConferenceTrackManagement-master\ConferenceTrackManagementTester\obj\Debug\ConferenceManagerTester.csprojResolveAssemblyReference.cache
+C:\Users\manish\Desktop\OrderManagemtn\ConferenceTrackManagement-master\ConferenceTrackManagementTester\obj\Debug\ConferenceManagerTester.dll
+C:\Users\manish\Desktop\OrderManagemtn\ConferenceTrackManagement-master\ConferenceTrackManagementTester\obj\Debug\ConferenceManagerTester.pdb
